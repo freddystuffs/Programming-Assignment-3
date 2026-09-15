@@ -71,4 +71,4 @@ slected_cars # shows the model name, mpg, cyl, hp, and gear of the cars: Datsun 
 selected_cars.shapee # shows the rows and columns of the list selected_cars, which is expected to have three rows and five columns.
 ```
 
-# **Thank you!##
+# **Thank you!**
